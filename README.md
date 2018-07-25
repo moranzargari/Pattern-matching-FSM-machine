@@ -37,3 +37,6 @@ Additional functions for slist.c:
 defines:
 * CONT - equal to 0, use to Announce success.
 * FAIL - equal to -1, use to Announce failure.
+
+
+Thank you!
